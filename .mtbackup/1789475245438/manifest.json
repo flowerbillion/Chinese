@@ -1,0 +1,22 @@
+{
+  "branch": "master",
+  "time": 1789475247202,
+  "files": [
+    {
+      "path": "README.md",
+      "sha": "6af5ccd2ca88f419f170a7d537613633c4e68dd1"
+    },
+    {
+      "path": "level-1.txt",
+      "sha": "531714c8e74a092517ba7cbe7a72db3896bb591c"
+    },
+    {
+      "path": "level-2.txt",
+      "sha": "88959da7ea7700335751c99eff38841297a94715"
+    },
+    {
+      "path": "level-3.txt",
+      "sha": "d76b43ba573308ab56074101b0722204442ccae8"
+    }
+  ]
+}
